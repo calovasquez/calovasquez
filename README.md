@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there:) 👋
+### My name is Carlos Vásquez, I am 21 years old and I am studying a degree in Computer Systems Engineering.
+### I'm here to learn and enjoy the process :)
 
 <!--
 **calovasquez/calovasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
